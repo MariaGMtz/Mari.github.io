@@ -1,0 +1,21 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+    border-width: 9px;
+    border-style: double;
+    border-color: rgb(226, 157, 223);
+}
+div{
+    color: blue;
+    background-color: #ffe1ee;
+
+}
+#parrafo-1 {color: blueviolet;
+}
+#parrafo-2 {color: aquamarine;
+}
+#parrafo-3 {color: brown;}
